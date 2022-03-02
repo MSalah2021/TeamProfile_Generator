@@ -1,0 +1,24 @@
+{
+    "name": "team-profile",
+    "version": "1.0.0",
+    "description": "## Your Task",
+    "main": "index.js",
+    "scripts": {
+      "test": "jest"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/Ceebcheng/Team_Builder.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/Ceebcheng/Team_Builder/issues"
+    },
+    "homepage": "https://github.com/Ceebcheng/Team_Builder#readme",
+    "dependencies": {
+      "inquirer": "^8.2.0",
+      "jest": "^27.4.7"
+    }
+  }
