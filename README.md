@@ -1,2 +1,0 @@
-# TeamProfile_Generator
-Info:you can create a simple and elegant team profile generator! Just simple run the app in a terminal and type "node index.js" and the user is given a set amount of questions to answer from, and from there it will generate a HTML file based on your answers.
